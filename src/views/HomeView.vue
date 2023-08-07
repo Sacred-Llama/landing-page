@@ -21,17 +21,51 @@ export default {
   data() {
     return {
       pastepeso1: [
-        "https://example.com",
-        "https://google.com",
-        "https://github.com",
-        "https://youtube.com",
+        "https://paypou.com/EJof/22879904",
+        "https://shrtq.com/kKSS/22879904",
+        "https://shrtq.com/kKSS/22879904",
+        "https://cutpu.com/S0YZ/22879904",
+        "https://urlef.com/qUmE/22879904",
+        "https://recutt.com/RdpO/22879904",
+        "https://paypou.com/xTdv/22879904",
+        "https://shrtq.com/4leq/22879904",
+        "https://cutpu.com/WCRG/22879904",
+        "https://urlef.com/AgcS/22879904",
+        "https://recutt.com/OHlf/22879904",
+        "https://paypou.com/5Jn/22879904",
+        "https://shrtq.com/SCH/22879904",
+        "https://cutpu.com/Hwo/22879904",
+        "https://urlef.com/7RJ/22879904",
+        "https://recutt.com/OJB/22879904",
+        "https://paypou.com/ocKGM/22879904",
+        "https://shrtq.com/2xDfM/22879904",
+        "https://cutpu.com/i25F0/22879904",
+        "https://urlef.com/nEMz7/22879904",
+        "https://recutt.com/C7rtI/22879904",
+
         // Add more links as needed
       ],
       pastepeso2: [
-        "https://example.com",
-        "https://google.com",
-        "https://github.com",
-        "https://youtube.com",
+      "https://paypou.com/Hy4/22879904",
+        "https://shrtq.com/Bln/22879904",
+        "https://cutpu.com/vaM/22879904",
+        "https://urlef.com/wTK/22879904",
+        "https://recutt.com/ymk/22879904",
+        "https://paypou.com/SZ64V/22879904",
+        "https://shrtq.com/ZtojZ/22879904",
+        "https://cutpu.com/JyqHA/22879904",
+        "https://urlef.com/K3Vp6/22879904",
+        "https://recutt.com/M8vac/22879904",
+        "https://paypou.com/AUcK/22879904",
+        "https://shrtq.com/ApAs/22879904",
+        "https://cutpu.com/IO5q/22879904",
+        "https://urlef.com/LWBq/22879904",
+        "https://recutt.com/pvQ6/22879904",
+        "https://paypou.com/Agm/22879904",
+        "https://shrtq.com/lM1/22879904",
+        "https://cutpu.com/zwV/22879904",
+        "https://urlef.com/EJO/22879904",
+        "https://recutt.com/ezp/22879904",
         // Add more links as needed
       ],
     };
@@ -56,6 +90,7 @@ export default {
         this.openLinkInNewTab(randomLink);
         this.markLinkAsClicked(randomLink);
       }
+      alert('You succesfully joined')
     },
     openRandomLink1() {
       this.openRandomLink(this.remainingLinks1);

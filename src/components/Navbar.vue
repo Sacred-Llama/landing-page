@@ -3,7 +3,7 @@
     <div class="min-h-[55px] mx-auto h-full max-w-[800px] ">
       <div>
         <div class="text-white text-2xl text-center lg:mx-0">
-          <h1 class="font-bold">GIVEAWAY</h1>
+          <h1 class="font-bold">GIVEAWAYS</h1>
         </div>
       </div>
     </div>
